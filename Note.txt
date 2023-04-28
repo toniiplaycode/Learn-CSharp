@@ -68,4 +68,4 @@
 	+ 1 Derived có thể thừa kế được nhiều Interface
 - try catch dùng để in ra lỗi
 
--> C# không hỗ trợ đa thừa kế (multiple inheritance)
+-> C# không hỗ trợ đa thừa kế (multiple inheritance), các thuộc tính hoặc Hàm thường là VIẾT HOA chữ cái đầu
