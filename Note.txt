@@ -22,7 +22,7 @@
 	+ Math.Min(x, y);
 	+ Math.sqrt(x);
 	+ Math.Abs(-x);
-	+ Math.Route(x.6); // làm tròn trên
+	+ Math.Round(x.6); // làm tròn trên
 - string:
 	+ string.length
 	+ string.ToUpper()
