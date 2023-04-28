@@ -1,0 +1,15 @@
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net6.0\CauTrucLenhCoBan.exe
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net6.0\CauTrucLenhCoBan.deps.json
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net6.0\CauTrucLenhCoBan.runtimeconfig.json
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net6.0\CauTrucLenhCoBan.dll
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net6.0\CauTrucLenhCoBan.pdb
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CauTrucLenhCoBan.csproj.AssemblyReference.cache
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CauTrucLenhCoBan.GeneratedMSBuildEditorConfig.editorconfig
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CauTrucLenhCoBan.AssemblyInfoInputs.cache
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CauTrucLenhCoBan.AssemblyInfo.cs
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CauTrucLenhCoBan.csproj.CoreCompileInputs.cache
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CauTrucLenhCoBan.dll
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\refint\CauTrucLenhCoBan.dll
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CauTrucLenhCoBan.pdb
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CauTrucLenhCoBan.genruntimeconfig.cache
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\ref\CauTrucLenhCoBan.dll

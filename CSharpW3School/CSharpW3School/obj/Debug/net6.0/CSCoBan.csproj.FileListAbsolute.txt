@@ -1,0 +1,15 @@
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net6.0\CSCoBan.exe
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net6.0\CSCoBan.deps.json
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net6.0\CSCoBan.runtimeconfig.json
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net6.0\CSCoBan.dll
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net6.0\CSCoBan.pdb
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CSCoBan.csproj.AssemblyReference.cache
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CSCoBan.GeneratedMSBuildEditorConfig.editorconfig
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CSCoBan.AssemblyInfoInputs.cache
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CSCoBan.AssemblyInfo.cs
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CSCoBan.csproj.CoreCompileInputs.cache
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CSCoBan.dll
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\refint\CSCoBan.dll
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CSCoBan.pdb
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\CSCoBan.genruntimeconfig.cache
+B:\C#\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net6.0\ref\CSCoBan.dll

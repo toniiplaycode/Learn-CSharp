@@ -1,0 +1,71 @@
+﻿- cấu trúc đầy đủ của C# có using, namespace, internal class, static 
+- các kiểu dữ liệu giống bên C/C++: int, float, long, double, bool, char, string
+- string nằm trong ""
+- char nằm tỏng ''
+- float có tiền tố là f hoặc F, double là d hoặc D, Long là l hoặc L
+- Console.WriteLine có xuống dòng
+- Console.Write không xuống dòng
+- Độ lớn của từng kiểu dữ liệu: char > int > long > float > double
+- type casting
+	+ từ lớn thành nhỏ thì gán thẳng: int myInt = 9; double myDouble = myInt;
+	+ từ nhỏ thành lớn thì: double myDouble = 9.2; int myInt = (int) myDouble;
+- các hàm chuyển đổi dữ liệu: 
+	+ Convert.ToBoolean
+	+ Convert.ToDouble
+	+ Convert.ToString
+	+ Convert.ToInt32(int) 
+	+ Convert.ToInt64(long)
+- Console.Readline() để nhập input, Console.ReadLine nhập là dạng chuỗi nên phải Convert.ToDouble(Console.ReadLine()) để nhập được các số
+	-> các số khi được input nên để type data là double để có thể nhập được số thập phân
+- hàm Math:
+	+ Math.Max(x, y);
+	+ Math.Min(x, y);
+	+ Math.sqrt(x);
+	+ Math.Abs(-x);
+	+ Math.Route(x.6); // làm tròn trên
+- string:
+	+ string.length
+	+ string.ToUpper()
+	+ string.ToLower()
+	+ string.Concat(<chuỗi 1>,<chuỗi 2>) // nối 2 chuỗi
+	+ string.indexOf("<từ muốn biết vị trí>")
+	+ string.Substring("<vị trí bắt đầu lấy>") // lấy từ vị trí bắt đầu đến hết chuỗi
+- Interpolation(nội suy, lai lai temple string bên JS)
+	+ $"variable: {a}"
+- backslash: \', \", \\, \n, \t, \b
+- các loop: vẫn giống như C/C++
+	+ Foreach dùng trong mảng để lặp phần tử	
+- tạo mảng:
+	+ int[] arr = {1, 2, 3,...}
+	+ float[] arr = {1.1, 2.2 , 3.3,...}
+	+ string[] arr = {"thanh", "toan"}
+	+ arr.Length là độ dài mảng
+- Array.Sort(<mảng>) // sắp xếp theo thứ tự tăng dần
+- System.Linq Namespace dùng với các hàm Min, Max, Sum;
+- Mảng 2 chiều: int[,] numbers = { {1, 2, 3}, {4, 5, 6} };
+- các tên function được đặt theo kiểu PascalCase
+----------------------------------------------
+- OOP trên C#
+- tên class đặt theo PascalCase
+- class Program (chứa hàm Main), và các class của OOP được chia thành các file riêng
+- 1 project chỉ có 1 hàm Main
+- các hàm Main và các class liên quan thì phải chung namespace
+- các attribute có thể được gán giá trị hoặc để trống, nếu gán thì nó được xem như giá trị mặc định, không gán thì khái báo từng object rồi gán 
+- attribute public mới có thể gán lại được 
+- constructor là một hàm nhưng nó không có kiểu trả về (void hay int), nó trùng tên với tên class, dùng để khởi tạo các giá trị mặc định cho các attribute
+- có 2 loại constructor, có tham số và không có tham số
+- các attribute là private nên muốn truy cập thì phải thông qua method set & get, các tên của attribute khi set get phải là PascalCase
+	--> đây là tính ecapsulation
+- Inheritance (Derived class & Base clas): Base class là lớp cha, Derived là lớp con
+- nếu không muốn 1 class bị thừa kế thì thêm "sealed"
+- Polymorphism do các lớp con kế thừa từ lớp cha. Polimorphism sử dụng các phương thức để thực hiện các tác vụ khác nhau. điều này cho phép chúng ta thực hiện 1 hành động theo nhiều các khác nhau
+	+ các hàm (phương thức) của base class thì thêm "virtual"
+	+ các derived class thì thêm "override" để ghi đè lại phương thức của lớp cơ sở
+- Abstraction được sử dụng cho class và method
+	+ Abstract class không tạo được đối tượng và không truy cập được các thuộc tính và phương thức, để truy cập được các phương thức hoặc thuộc tính của Abstract class thì phải được lớp khác kế thừa, Abstract class chứa Abstract method và Relugar method
+	+ Abstract methods là các hàm không có phần thân, phần thân được định nghĩa bởi các lớp con
+- Interface là abstract class hoàn toàn (cơ chế giống abstract class), nghĩa là chỉ có các Abstract method, không có Rulegar method, Interface không chứa các thuộc tính, chỉ chứa Abstract method
+	+ 1 Derived có thể thừa kế được nhiều Interface
+- try catch dùng để in ra lỗi
+
+-> C# không hỗ trợ đa thừa kế (multiple inheritance)
