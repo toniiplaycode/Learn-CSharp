@@ -1,5 +1,6 @@
-﻿- cấu trúc đầy đủ của C# có using, namespace, internal class, static 
-- các kiểu dữ liệu giống bên C/C++: int, float, long, double, bool, char, string
+- cấu trúc đầy đủ của C# có using, namespace, internal class, static 
+- các kiểu dữ liệu giống bên C/C++: int, float, long, double, bool, char, string, var
+	-> khi dùng kiểu var , thì nó sẽ phụ thuộc vào kiểu dữ liệu của giá trị mà nó được gán
 - string nằm trong ""
 - char nằm tỏng ''
 - float có tiền tố là f hoặc F, double là d hoặc D, Long là l hoặc L
