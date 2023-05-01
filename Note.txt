@@ -1,5 +1,6 @@
 ﻿- cấu trúc đầy đủ của C# có using, namespace, internal class, static 
-- các kiểu dữ liệu giống bên C/C++: int, float, long, double, bool, char, string
+- các kiểu dữ liệu giống bên C/C++: int, float, long, double, bool, char, string, var, DateTime
+	-> khi dùng kiểu var , thì nó sẽ phụ thuộc vào kiểu dữ liệu của giá trị mà nó được gán
 - string nằm trong ""
 - char nằm tỏng ''
 - float có tiền tố là f hoặc F, double là d hoặc D, Long là l hoặc L
@@ -22,7 +23,7 @@
 	+ Math.Min(x, y);
 	+ Math.sqrt(x);
 	+ Math.Abs(-x);
-	+ Math.Route(x.6); // làm tròn trên
+	+ Math.Round(x.6); // làm tròn trên
 - string:
 	+ string.length
 	+ string.ToUpper()
@@ -67,5 +68,6 @@
 - Interface là abstract class hoàn toàn (cơ chế giống abstract class), nghĩa là chỉ có các Abstract method, không có Rulegar method, Interface không chứa các thuộc tính, chỉ chứa Abstract method
 	+ 1 Derived có thể thừa kế được nhiều Interface
 - try catch dùng để in ra lỗi
+- static được sử dụng để định nghĩa một thành phần của một lớp, phương thức hoặc thuộc tính, là tĩnh, có thể truy cập mà không cần tạo một thể hiện (instance) của lớp (không New)
 
--> C# không hỗ trợ đa thừa kế (multiple inheritance)
+-> C# không hỗ trợ đa thừa kế (multiple inheritance), các thuộc tính hoặc Hàm thường là VIẾT HOA chữ cái đầu
