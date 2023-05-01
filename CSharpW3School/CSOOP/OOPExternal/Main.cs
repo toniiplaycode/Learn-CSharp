@@ -71,7 +71,7 @@ namespace OOPExternal
             myPig.animalAction2(); */
 
             // try cacth
-            try
+            /* try
             {
                 int[] myNumbers = { 1, 2, 3 };
                 Console.WriteLine(myNumbers[10]);
@@ -80,7 +80,13 @@ namespace OOPExternal
             {
                 Console.WriteLine(e.Message);
                 Console.WriteLine("Loi roi !");
-            }
+            } */
+
+            //static
+            Employee employee1 = new Employee("Thanh Toan", 20);
+            Employee employee2 = new Employee("Minh Hung", 28);
+            employee1.PrintEmployee();
+            employee2.PrintEmployee();
         }
     }
 }
